@@ -1,0 +1,4 @@
+.htaccess
+/config/
+/classes/Database.class.php
+/classes/Store.class.php
