@@ -66,9 +66,9 @@ if ($recordID === false) {
     die($fnc->response($status, '400'));
 }
 
-$oldIP = $API->getRecordIP();
+$currentIP = $API->getRecordIP();
 
-if ($ip == $oldIp) {
+if ($ip == $currentIP) {
     $status = $fnc->successMessage();
     die($fnc->response($status, '200'));
 }
