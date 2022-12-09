@@ -1,2 +1,2 @@
 # Cloudflare-DynDNS-API
-Documentation: https://api.cloudflare-dyndns.com/documentation
+Documentation: https://cloudflare-dyndns.com/documentation
